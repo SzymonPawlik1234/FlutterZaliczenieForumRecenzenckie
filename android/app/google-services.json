@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915381511052",
+    "project_id": "loginrecenzjebase",
+    "storage_bucket": "loginrecenzjebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915381511052:android:27bbefa2a142e8ad1d2ca9",
+        "android_client_info": {
+          "package_name": "com.example.bazydanychtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKl7fBRiJzbiypW5h2hA-GHudbTUdaDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915381511052:android:2cb0a38e7fcb6d761d2ca9",
+        "android_client_info": {
+          "package_name": "com.example.naukafutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKl7fBRiJzbiypW5h2hA-GHudbTUdaDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
